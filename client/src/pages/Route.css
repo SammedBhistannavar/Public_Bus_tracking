@@ -1,0 +1,66 @@
+main{
+    background-image: url(https://wallpapercave.com/wp/wp2655676.jpg);
+   height: 100vh;
+}
+input {
+    background-image: url('searchicon.png');
+    background-position: 10px 10px;
+    padding-left: 40px;
+}
+input:focus {
+    background-color: lightblue;
+}
+input {
+    background: rgb(114,147,178);
+    background: linear-gradient(180deg, rgba(114,147,178,1) 0%, rgba(14,21,22,0.6694327389158788) 80%, rgba(12,15,20,1) 100%);
+    color: white;
+}
+input {
+    border: 2px solid;
+    border-radius: 4px;
+}
+input {
+    padding: 12px 15px;
+}
+
+.user{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border: solid;
+    border-radius: 40px;
+    align-items: center;
+    background: rgb(114,147,178);
+    padding: 40px;
+    position: absolute;
+    right: 35%;
+    width: 25%;
+    bottom: -150px;
+
+}
+#button {
+    background-color: #a6ae88; /* Green */
+    border: none;
+    border-radius: 15px;
+    color: white;
+    padding: 10px 25px ;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+  }
+label{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.mainheading{
+    font-size: 40px;
+    margin-left: 520px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+
+}
+
+image{
+background-image: url("https://www.google.com/maps/@15.8855247,74.5133581,15z?entry=ttu");
+}

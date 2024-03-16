@@ -1,0 +1,27 @@
+.container{
+    max-width: 140rem;
+    padding: 4.2rem 2.4rem;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+
+
+}
+ul{
+    display: flex;
+    gap: 3.2rem;
+}
+li{
+    color: white;
+}
+header{
+    background: rgb(114,147,178);
+background: linear-gradient(180deg, rgba(114,147,178,1) 0%, rgba(14,17,22,1) 80%, rgba(12,15,20,1) 100%);
+}
+#navbar{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.parent{
+ background-color: white;
+ text-decoration: none;
+}
