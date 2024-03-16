@@ -11,6 +11,8 @@ node_modules
 dist
 dist-ssr
 *.local
+twiliconst accountSid = 'ACcd73a9a2e6449784d5bcb2ac0464cf76';
+const authToken = '[authtoken';
 
 # Editor directories and files
 .vscode/*
